@@ -1,2 +1,20 @@
-# wordpress-plugin-raw-html-manipulation-tag-class-b-gone
-Tag-Class-B-Gone Is A Nice Little Plugin: It Uses A Ruthless HTML-Manipulation At A Level Beyond WordPress-API, To Remove CLASS Values That Looks Like 'tag-*****', Which Are Added By WordPress For Each Of The Tags You've Added To Your Post. This Plugin Can Save You A Lot (!) Of Junk In Your Page.
+# Tag-Class-B-Gone
+## A WordPress Raw HTML Processing For PHP Developers (And Everyone Else Too...)
+
+'''PHP5
+/* ╔═════════════════════════════════════════════════════╗
+   ║ - Hope You've Enjoyed My Work :]                    ║
+   ╟─────────────────────────────────────────────────────╢
+   ║ - Feel Free To Modifiy And Distribute it (GPL2).    ║
+   ╟─────────────────────────────────────────────────────╢
+   ║ - Donations Are A *Nice* Way Of Saying Thank-You :] ║
+   ║   But Are NOT Necessary!                            ║
+   ║                                                     ║
+   ║ I'm Doing It For The Fun Of It :]                   ║
+   ║                                                     ║
+   ║    - Elad Karako                                    ║
+   ║         Tel-Aviv, Israel- August 2016.              ║
+   ╚═════════════════════════════════════════════════════╝
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ */
+'''
+
